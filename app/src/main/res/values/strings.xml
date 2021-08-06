@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="date">Date</string>
+    <string name="calendar">Calendar</string>
+    <string name="button_for_test">Button For Test</string>
+    <string name="hold_me">Hold me</string>
+
+</resources>
